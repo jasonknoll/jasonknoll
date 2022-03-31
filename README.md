@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi I'm Jason! Checkout some of the projects I have presented here on GitHub! For more experimental/personal/private projects that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonknoll)](https://github.com/anuraghazra/github-readme-stats)
+
+
