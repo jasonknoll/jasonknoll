@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Checkout some of the projects I have here on GitHub, including my: Blockchain, Hydrogeology Graph Generator and 2D Lacrosse-Pong Clone! For more experimental/personal/private-projects that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)! 
+Checkout some of the projects I have here on GitHub! For more experimental/personal/private-projects that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
