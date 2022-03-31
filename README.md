@@ -1,4 +1,4 @@
-### Jason Knoll
+### Hi, I'm Jason!
 
 <!--
 **jasonknoll/jasonknoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi I'm Jason! Checkout some of the projects I have presented here on GitHub! For more experimental/personal/private projects that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)
+Checkout some of the projects I have presented here on GitHub! For more experimental/personal/private projects that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
