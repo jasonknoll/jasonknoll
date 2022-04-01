@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Checkout some of the projects I have here on GitHub! For more *experimental/personal/private-projects* that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)! 
+I'm a 21 year-old college student studying sofware engineering at Florida Gulf Coast University. Checkout some of the projects I have here! Some are allowed me to learn about certain technologies, and some were just experiments for fun. For more *experimental/personal/private-projects* that I may be working on, visit my profile on [GitLab](https://gitlab.com/jason_knoll)! 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
