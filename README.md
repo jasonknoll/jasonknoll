@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a 21 year-old college student studying sofware engineering at Florida Gulf Coast University. Checkout some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
 
 Check me out on:
-* [My personal site](https://www.jasonknoll.tech)
+<!--* [My personal site](https://www.jasonknoll.tech) -->
 * [GitLab](https://gitlab.com/jason_knoll)
 * [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/)
 * [LeetCode](https://leetcode.com/kannoli/)
