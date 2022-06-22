@@ -19,10 +19,10 @@ I'm a 21 year-old college student studying sofware engineering at Florida Gulf C
 
 Check me out on:
 <!--* [My personal site](https://www.jasonknoll.tech) -->
-* [GitLab](https://gitlab.com/jason_knoll)
 * [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/)
 * [LeetCode](https://leetcode.com/kannoli/)
 * [CodePen](https://codepen.io/kannoli)
+* [GitLab](https://gitlab.com/jason_knoll)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
