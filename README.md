@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 21 year-old college student studying sofware engineering at Florida Gulf Coast University. Checkout some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
+I'm a 22 year-old college student studying sofware engineering at Florida Gulf Coast University. Checkout some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
 
 Check me out on:
 <!--* [My personal site](https://www.jasonknoll.tech) -->
