@@ -23,7 +23,7 @@ Check me out on:
 * [LeetCode](https://leetcode.com/kannoli/)
 * [CodePen](https://codepen.io/kannoli)
 * [GitLab](https://gitlab.com/jason_knoll)
-* [My Website (Coming Soon)](http://jasonknoll.tech/)
+* [My Website (Coming Soon)](http://jasonknoll.net/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
