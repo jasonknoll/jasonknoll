@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 22 year-old college student studying sofware engineering at Florida Gulf Coast University. Checkout some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
+I'm a 23 year-old software engineer from Florida. Checkout some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
 
 Check me out on:
 <!--* [My personal site](https://www.jasonknoll.tech) -->
 * [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/)
 * [LeetCode](https://leetcode.com/kannoli/)
 * [CodePen](https://codepen.io/kannoli)
-* [GitLab](https://gitlab.com/jason_knoll)
-* [My Website (Coming Soon)](http://jasonknoll.net/)
+* [My Website](http://jasonknoll.net/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
