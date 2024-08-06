@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 23 year-old software engineer from Florida. Checkout some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
+I'm a software engineer from Florida. Please take a look at some of the projects I have here! These are mostly informal projects I used to learn about certain libraries or tools. Some were just experiments for fun! 
 
 Check me out on:
 <!--* [My personal site](https://www.jasonknoll.tech) -->
