@@ -19,7 +19,7 @@ Thanks for checking out my code!
 
 Check me out on:
 <!--* [My personal site](https://www.jasonknoll.tech) -->
-<!--* [My Website](http://jasonknoll.net/) -->⌈
+<!--* [My Website](http://jasonknoll.net/) -->
 * [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/)
 * [LeetCode](https://leetcode.com/kannoli/)
 <!--* [CodePen](https://codepen.io/kannoli) -->
