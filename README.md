@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Thanks for checking out my code! 
 
-Check me out on [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/), [LeetCode](https://leetcode.com/kannoli/) and 
+Check me out on [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/) and 
 [my website (ETA: soon)](https://www.jasonknoll.net)
 <!--* [CodePen](https://codepen.io/kannoli) -->
 
