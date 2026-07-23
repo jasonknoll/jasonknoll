@@ -22,6 +22,6 @@ Check me out on [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/) <!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonknoll)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonknoll)]
 
 
