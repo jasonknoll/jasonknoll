@@ -20,8 +20,4 @@ Thanks for checking out my code!
 Check me out on [LinkedIn](https://www.linkedin.com/in/jason-knoll-587327ba/) <!-- and [my website (ETA: soon)](https://www.jasonknoll.net) -->
 <!--* [CodePen](https://codepen.io/kannoli) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonknoll&count_private=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonknoll)]
-
 
